@@ -1,0 +1,39 @@
+.roditelyam-container {
+    padding-top: 80px; 
+    background-color: #f9f5e3;
+  }
+  
+  .roditelyam-container h2 {
+    color: #c0392b; 
+  }
+  
+  .roditelyam-container p {
+    font-size: 1.2rem;
+    color: #333;
+  }
+  
+  .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #c0392b; 
+  }
+  
+  .card-body h4 {
+    font-size: 1.2rem;
+    color: #777; 
+  }
+  
+  .card {
+    border: none;
+    background-color: #fef9e7;
+    transition: transform 0.3s;
+  }
+  
+  .card:hover {
+    transform: scale(1.03); 
+  }
+  
+  .text-info {
+    color: #ff6f61; 
+  }
+  

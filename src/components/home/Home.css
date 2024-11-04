@@ -1,0 +1,42 @@
+.home-container {
+    background-color: #fcf5e5;
+    padding: 40px;
+    border-radius: 10px;
+    color: #5d4037;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .home-title {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #c0392b;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .home-intro p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    margin-bottom: 15px;
+  }
+  
+  .home-story h2 {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #8e44ad; 
+    margin-top: 30px;
+    text-align: center;
+  }
+  
+  .home-story p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: #5d4037; 
+    margin-bottom: 15px;
+  }
+  
+  .home-container p {
+    text-indent: 20px;
+  }

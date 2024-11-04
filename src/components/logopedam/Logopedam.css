@@ -1,0 +1,21 @@
+.logopedam-container {
+    background-color: #f9f5e3;
+    border-radius: 8px;
+  }
+  
+  .card {
+    border: none;
+    border-radius: 8px;
+    padding: 1.5rem;
+  }
+  
+  .card-title {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+  }
+  
+  h2, h3, h4 {
+    font-weight: bold;
+    font-family: 'Comic Sans MS', cursive, sans-serif;
+  }
+
+  

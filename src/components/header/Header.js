@@ -12,7 +12,7 @@ function Header() {
           <a href="/roditelyam" className="header__link btn btn-outline-success mx-2">Родителям</a>
           <a href="/obratnaya-svyaz" className="header__link btn btn-outline-success mx-2">Обратная связь</a>
           <a href="/o-nas" className="header__link btn btn-outline-success mx-2">О нас</a>
-          <a href="/igry" className="header__link btn btn-outline-success mx-2">Игры</a>
+          <a href="/games" className="header__link btn btn-outline-success mx-2">Игры</a>
         </nav>
       </div>
     </header>

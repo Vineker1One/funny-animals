@@ -1,0 +1,53 @@
+.game-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .game-buttons button {
+    margin-top: 20px;
+    background-color: #ff6f61; 
+    color: white; 
+    font-size: 1.2rem; 
+    font-weight: bold;
+    padding: 10px 20px; 
+    border: none;
+    border-radius: 10px; 
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s;
+  }
+  
+  .game-buttons button:hover {
+    background-color: #e75b52; 
+    transform: scale(1.05); 
+  }
+  
+  .game-buttons button:active {
+    background-color: #c0392b; 
+    transform: scale(0.95); 
+  }
+  
+  .hint-button {
+    background-color: #ffd966; 
+    color: #333; 
+    font-size: 1.1rem; 
+    font-weight: bold;
+    padding: 8px 18px; 
+    border: none;
+    border-radius: 8px; 
+    cursor: pointer;
+    transition: background-color 0.3s, transform 0.2s; 
+    margin-top: 10px; 
+  }
+  
+  .hint-button:hover {
+    background-color: #f4c542; 
+    transform: scale(1.05); 
+  }
+  
+  .hint-button:active {
+    background-color: #e0ac1b; 
+    transform: scale(0.95); 
+  }
